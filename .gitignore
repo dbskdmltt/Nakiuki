@@ -1,0 +1,20 @@
+# Unreal Engine 빌드 산출물
+Binaries/
+Intermediate/
+DerivedDataCache/
+
+# 런타임 데이터
+Saved/
+
+# Content 폴더 (필요시 개별 추가)
+Content/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+
+# 로컬 설정
+*.VC.db
+*.VC.opendb

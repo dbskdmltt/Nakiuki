@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/YOUNA/OneDrive/문서/Unreal Projects/MyProject/$\\(pwd\\)/Saved/Logs/**)"
+    ]
+  }
+}
